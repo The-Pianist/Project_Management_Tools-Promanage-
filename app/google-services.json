@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346355364006",
+    "project_id": "promanage-2a731",
+    "storage_bucket": "promanage-2a731.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346355364006:android:c1dfeaeb9b37d8e0448467",
+        "android_client_info": {
+          "package_name": "com.example.promanage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346355364006-ja07v02igsu9psebk0im9pc44bi4bm60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnbhnRgOMcmkJZPp4XYof0cCPpfrZcbFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346355364006-ja07v02igsu9psebk0im9pc44bi4bm60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
